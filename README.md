@@ -2,4 +2,4 @@
 
 Hello!
 
-https://nohello.net/
+[https://misterabdul.github.io/nohello](https://misterabdul.github.io/nohello)
